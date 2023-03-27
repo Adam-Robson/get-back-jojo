@@ -1,0 +1,9 @@
+:root {
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 200;
+  text-align: center;
+}
+
+#bg_img {
+  min-width: 100vw;
+}
